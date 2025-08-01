@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.navText {
+  font-size: 14px;
+
+  font-weight: 400;
+  gap: 32px;
+}
+.button {
+  font-size: 12px;
+  border-radius: 0;
+}
+.title {
+  padding: 64px 0;
+}
+.img {
+  width: 80px;
+}
+.titleHeading {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 120%;
+  width: 540px;
+}
+.titlePragraph {
+  line-height: 150%;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 24px 0;
+  width: 560p;
+}
+.titleButton {
+  font-weight: 500;
+  font-size: 12px;
+  border-radius: 0px;
+}
+.titleImg {
+  width: 100%;
+  height: 345px !important;
+}
+
+.customTitleArrange {
+  align-items: center;
+  --bs-gutter-x: 5rem;
+}
+.teamHeading {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 120%;
+  padding-bottom: 16px;
+}
+.teamParagraph {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  width: 530px;
+  margin: 0 auto;
+}
+.customTeamArrangeOne {
+  text-align: center;
+  justify-content: center;
+}
+.team {
+  padding: 64px 0;
+}
+.customTeamArrangeTwo {
+  margin-top: 64px;
+    --bs-gutter-x: 2rem;
+    --bs-gutter-y: 2rem;
+
+}
+.listBorder {
+  border: none;
+}
+.cardImg {
+  height: 380px;
+  width: 100%;
+  object-fit: cover;
+}
+.client{
+  padding: 64px 0;
+}
+.clohed{
+  padding-bottom: 32px;
+}
+.from{
+  padding: 64px 0;
+}
+.fromHeading{
+   color: #000000;
+   line-height: 120%;
+   font-size: 32px;
+   font-weight: bold;
+   padding-bottom: 16px;
+}
+.fromPadding{
+   font-size: 18px;
+   font-weight: 400;
+}
+
+.praentInput{
+  justify-content: center;
+  padding-top: 60px;
+}
+.buttonFrom{
+  width: 100%;
+  margin-top: 16px;
+}
+.listFirst{
+  border: 0px;
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+  background-color: transparent;
+  margin-bottom: 16px;
+}
+.list{
+  border: 0px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+  background-color: transparent;
+}
+.footerPragraph{
+  padding-top: 56px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+
+}
+
+
+.footer{
+  margin: 64px 0 0;
+  padding: 64px 0;
+  background-color: #F5F7FA;
+}
