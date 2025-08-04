@@ -33,8 +33,9 @@
     margin-bottom: 55px;
   }
   .titleImg {
-    height: auto;
-  }
+
+	height: 190px !important;
+}
 
   /* =====================================================
              Title end
