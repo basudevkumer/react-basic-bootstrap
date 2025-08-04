@@ -6,7 +6,6 @@ body {
 
 .navText {
   font-size: 14px;
-
   font-weight: 400;
   gap: 32px;
 }
@@ -31,7 +30,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   padding: 24px 0;
-  width: 560p;
+  width: 560px;
 }
 .titleButton {
   font-weight: 500;
@@ -139,4 +138,7 @@ body {
   margin: 64px 0 0;
   padding: 64px 0;
   background-color: #F5F7FA;
+}
+.list{
+  cursor: pointer;
 }
